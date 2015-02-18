@@ -8,9 +8,9 @@ Open this link in a new window or tab: https://c9.io/open/git/?url=git://github.
 If you don't yet have a cloud 9 account it will allow you to create a free one.
 
 
-Once Could 9 has loaded right click on "run-cloud9.sh" in the file tree and say run.
+Once Could 9 has loaded right click on "run-sql-mvc.sh" in the file tree and say run.
 
-![run-cloud9.sh](https://github.com/quale-quest/sql-mvc-c9/blob/master/doc/c9/c9_01.png "run-cloud9.sh")
+![run-sql-mvc.sh](https://github.com/quale-quest/sql-mvc-c9/blob/master/doc/c9/c9_01.png "run-sql-mvc.sh")
 
 As it runs, installer will prompt a few times, just press enter.
 
