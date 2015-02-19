@@ -14,16 +14,17 @@ Once Could 9 has loaded right click on "run-sql-mvc.sh" in the file tree and say
 
 As it runs, installer will prompt a few times, just press enter.
 
-Once done, on the menu click preview ... preview with webserver, or follow the
-instructions to open the URL in a new browser window.
-To get the application URL, click on "Share" on the top right.
+After a few minutes, Once done, you can do a preview by clicking preview -- preview with webserver, on the menu.
+
+![preview](https://github.com/quale-quest/sql-mvc-c9/blob/master/doc/c9/c9_preview_1.png "preview")
+
+To view the app in your own browser you need to get the URL by clicking on "Share" on the top right.
 
 ![Click share](https://github.com/quale-quest/sql-mvc-c9/blob/master/doc/c9/c9_share_1.png "Click share")
 
 And note the application URL in the dialogue box:
 
 ![Check the Application URL and where it if you wish](https://github.com/quale-quest/sql-mvc-c9/blob/master/doc/c9/c9_share_2.png "URL")
-
 
 
 Now you will see the application run - exactly the same as the sql-mvc.com site.
