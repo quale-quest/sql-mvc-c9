@@ -12,9 +12,12 @@ Once Could 9 has loaded right click on "run-sql-mvc.sh" in the file tree and say
 
 ![run-sql-mvc.sh](https://github.com/quale-quest/sql-mvc-c9/blob/master/doc/c9/c9_01.png "run-sql-mvc.sh")
 
-As it runs, installer will prompt a few times, just press enter.
+As it runs, the installer will prompt a few times, just press enter.
 
-After a few minutes, Once done, you can do a preview by clicking preview -- preview with webserver, on the menu.
+After a few minutes, once done, you can do a preview by clicking : "Preview -- Preview with Web Server", on the menu.
+
+Now you will see the application run in an embedded window. If the window is small, you may only see the menu,
+ for size constrained screens the green strawberry acts to show or hide the menu.
 
 ![preview](https://github.com/quale-quest/sql-mvc-c9/blob/master/doc/c9/c9_preview_1.png "preview")
 
@@ -22,14 +25,14 @@ To view the app in your own browser you need to get the URL by clicking on "Shar
 
 ![Click share](https://github.com/quale-quest/sql-mvc-c9/blob/master/doc/c9/c9_share_1.png "Click share")
 
-And note the application URL in the dialogue box:
+Copy (type) the application URL from the dialogue box to your browser:
 
 ![Check the Application URL and where it if you wish](https://github.com/quale-quest/sql-mvc-c9/blob/master/doc/c9/c9_share_2.png "URL")
 
 
-Now you will see the application run - exactly the same as the sql-mvc.com site.
+Now you will see the application run in your browser - exactly the same as the sql-mvc.com site.
 
-**note for size constrained screens the green strawberry acts as a menu activator**
+
 
 To play around, go to the directory tree, navigate to demo-app/Quale/Standard/Home/Guest/MainMenu/02_demos/10_todo_mvc.quicc
 
