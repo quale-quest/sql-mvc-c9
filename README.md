@@ -34,7 +34,7 @@ Now you will see the application run in your browser - exactly the same as the s
 
 
 
-To play around, go to the directory tree, navigate to demo-app/Quale/Standard/Home/Guest/MainMenu/02_demos/10_todo_mvc.quicc
+To play around, edit the files 10_todo_mvc.quicc, TodoController.quicc,TodoModel.quicc  (short-cuts will be placed in the workspace root, during the install)
 
 ![and Edit](https://github.com/quale-quest/sql-mvc-c9/blob/master/doc/c9/c9_edit_1.png "Edit")
 
@@ -44,6 +44,8 @@ edit this file, and after the **<#view** line add
 
 then save with *ctrl-s*, within a few seconds you will notice the file compiling in the console
 and then your web browser will automatically reload the page with the change.
+
+**Note: If you get "connect error" running the app after you disconnected from c9 for a while, then delete the project from your c9 dashboard and reinstall**
 
 Now follow the tutorials on writing a basic application
  at : [Github - Tutorial_basic_1](https://github.com/quale-quest/sql-mvc/blob/master/doc/Tutorial_basic_1.md)
