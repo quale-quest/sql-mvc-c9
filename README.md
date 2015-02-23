@@ -14,6 +14,8 @@ Once Could 9 has loaded right click on "run-sql-mvc.sh" in the file tree and say
 
 As it runs, the installer will prompt a few times, just press enter.
 
+Sorry but cloud 9 IDE VPS's are quite slow, so please be patient with the operation.
+
 After a few minutes, once done, you can do a preview by clicking : "Preview -- Preview with Web Server", on the menu.
 
 Now you will see the application run in an embedded window. If the window is small, you may only see the menu,
@@ -34,7 +36,7 @@ Now you will see the application run in your browser - exactly the same as the s
 
 
 
-To play around, edit the files 10_todo_mvc.quicc, TodoController.quicc,TodoModel.quicc  (short-cuts will be placed in the workspace root, during the install)
+To play around, edit the files Index.quicc, TodoController.quicc,TodoModel.quicc  (short-cuts will be placed in the workspace root, during the install)
 
 ![and Edit](https://github.com/quale-quest/sql-mvc-c9/blob/master/doc/c9/c9_edit_1.png "Edit")
 
