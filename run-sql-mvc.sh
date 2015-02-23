@@ -22,9 +22,10 @@ sudo chown firebird:firebird /var/db
 #run the server app	
 sudo ./check.sh
 
-ln demo-app/Quale/Standard/Home/Guest/MainMenu/02_Demos/10_todo_mvc.quicc ../10_todo_mvc.quicc -s
-ln demo-app/Quale/Standard/Home/Guest/Controllers/TodoController.quicc ../TodoController.quicc -s
-ln demo-app/Quale/Standard/Home/Guest/Models/TodoModel.quicc ../TodoModel.quicc -s
+cd ~/workspace/
+ln demo-app/Quale/Standard/Home/Guest/MainMenu/02_Demos/10_todo_mvc.quicc 10_todo_mvc.quicc -s
+ln demo-app/Quale/Standard/Home/Guest/Controllers/TodoController.quicc TodoController.quicc -s
+ln demo-app/Quale/Standard/Home/Guest/Models/TodoModel.quicc TodoModel.quicc -s
 fi
 
 cd ~/workspace/demo-app
