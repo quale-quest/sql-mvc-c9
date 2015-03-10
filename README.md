@@ -23,7 +23,12 @@ Now you will see the application run in an embedded window. If the window is sma
 
 ![preview](https://github.com/quale-quest/sql-mvc-c9/blob/master/doc/c9/c9_preview_1.png "preview")
 
-To view the app in your own browser you need to get the URL by clicking on "Share" on the top right.
+To view the app in your own browser click the ![popout icon](https://github.com/quale-quest/sql-mvc-c9/blob/master/doc/c9/c9_popout_icon.png "popout") in the browser:
+
+![popout in the browser](https://github.com/quale-quest/sql-mvc-c9/blob/master/doc/c9/c9_popout.png "popout") 
+
+
+Alternatively, you need to get the URL by clicking on "Share" on the top right.
 
 ![Click share](https://github.com/quale-quest/sql-mvc-c9/blob/master/doc/c9/c9_share_1.png "Click share")
 
